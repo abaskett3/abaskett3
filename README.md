@@ -3,6 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abaskett3&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![]([https://www.codewars.com/users/abaskett3/badges/large])](https://www.codewars.com/users/abaskett3)
+[![Code Wars](https://www.codewars.com/users/abaskett3/badges/small)](https://www.codewars.com/users/abaskett3)
 
 ![](https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif)
