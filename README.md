@@ -1,6 +1,7 @@
 ### Hi there 👋
-<3 GitHub
-<3 Taco Bell
+:heart: GitHub  
+:heart: Taco Bell  
+:heart: Coffee  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abaskett3&count_private=true&hideborder=true&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
