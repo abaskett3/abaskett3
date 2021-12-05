@@ -57,7 +57,7 @@ Hi, my name is Arland. I am a self taught programmer. My formal schooling backgr
 
 ## :sweat_smile: Socials  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abaskettjr/)
-[![Discord](https://img.shields.io/badge/Discord-6A0DAD?style=for-the-badge&logo=discord&color=6A0DAD&logoColor=white)](https://discordapp.com/users/webhead3#0114/)
+[![Discord](https://img.shields.io/badge/-%20webhead33%230114-6A0DAD?style=for-the-badge&logo=discord&color=6A0DAD&logoColor=white)](https://discordapp.com/users/webhead3#0114/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/webhead3/)
 [![Twitch](https://img.shields.io/badge/webhead33-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/webhead33)
 
