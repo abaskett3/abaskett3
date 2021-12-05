@@ -6,7 +6,7 @@
 ## :nerd_face: What I know
 ### Languages  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=appveyor)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
