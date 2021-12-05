@@ -1,7 +1,5 @@
 ### Hi there 👋
-:heart: GitHub  
-:heart: Taco Bell  
-:heart: Coffee 
+Hi, my name is Arland. I am a self taught programmer. My formal schooling background is in IT and networking. I passion for automation and making technology working for you. I am a life long student who is constantly learning and improving. I don't have all the answers, I just have great Googling skills. Aside from programming and running my homelab I enjoy cooking, bass guitar, gaming, coffee, and tacos.
 
 ## :nerd_face: What I know
 ### Languages  
@@ -55,17 +53,19 @@
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## :sweat_smile: Socials  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abaskettjr/)
 [![Discord](https://img.shields.io/badge/Discord-6A0DAD?style=for-the-badge&logo=discord&color=6A0DAD&logoColor=white)](https://discordapp.com/users/webhead3#0114/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/webhead3/)
 [![Twitch](https://img.shields.io/badge/webhead33-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/webhead33)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 If I helped you, consider buying me a coffee. [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/webhead3)
 
-## :collision: Stats 
+## :chart_with_upwards_trend: Stats 
+<sub>Sorry, a lot of my work is in private repos :broken_heart:</sub>  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abaskett3&count_private=true&hideborder=true&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abaskett3&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
