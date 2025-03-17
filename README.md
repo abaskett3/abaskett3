@@ -25,6 +25,7 @@ Hi, my name is Arland. I am a self taught programmer. My formal schooling backgr
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Octopus Deploy](https://img.shields.io/badge/octopus_deploy-2F93E0?style=for-the-badge&logo=octopusdeploy&logoColor=4287f5&logoSize=auto&color=0F2535&link=https%3A%2F%2Foctopus.com%2F)
 ### Source Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
