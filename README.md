@@ -62,14 +62,8 @@ Hi, my name is Arland. I am a self taught programmer. My formal schooling backgr
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/webhead3/)
 [![Twitch](https://img.shields.io/badge/webhead33-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/webhead33)
 
-
-If I helped you, consider buying me a coffee. [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/webhead3)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/webhead3)
 
 ## :chart_with_upwards_trend: Stats 
 <sub>Sorry, a lot of my work is in private repos :broken_heart:</sub>  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abaskett3&count_private=true&hideborder=true&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abaskett3&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://media.giphy.com/media/VvXg0yjJQgfEQ/giphy.gif)
 
