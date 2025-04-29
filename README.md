@@ -64,6 +64,5 @@ Hi, my name is Arland. I am a self taught programmer. My formal schooling backgr
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/webhead3)
 
-## :chart_with_upwards_trend: Stats 
 <sub>Sorry, a lot of my work is in private repos :broken_heart:</sub>  
 
