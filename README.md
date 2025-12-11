@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, my name is Arland. I am a self taught programmer. My formal schooling background is in IT and networking. I passion for automation and making technology working for you. I am a life long student who is constantly learning and improving. I don't have all the answers, I just have great Googling skills. Aside from programming and running my homelab I enjoy cooking, bass guitar, gaming, coffee, and tacos.
+Hi, my name is Arland. I am a self taught programmer. My formal schooling background is in IT and networking. I have a passion for automation and making technology work for you. I am a life long student who is constantly learning and improving. I don't have all the answers, I just have great Googling skills. Aside from programming and running my homelab I enjoy cooking, bass guitar, gaming, coffee, and tacos.
 
 ## :nerd_face: What I know
 ### Languages  
